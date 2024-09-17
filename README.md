@@ -8,4 +8,7 @@ Fitur apa saja yang di miliki?
 4. Search/Filter: Fitur buat nyari atau filter task berdasarkan kata kunci atau prioritas.
 5. Dark Mode: Mode gelap buat tampilan yang lebih nyaman di mata.
 
+Demo:
+https://simple-to-do-list-two.vercel.app/
+
 Silakan dipakai.
